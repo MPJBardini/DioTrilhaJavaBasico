@@ -1,8 +1,25 @@
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
-        
-        string meuNome = "JB";
-        
+        //classe de Operadores Java
+
+        string nome = "JB";
+        int idade = 30;
+        double peso = 75.5;
+        char sexo = 'M';
+        boolean doadororgao = true;
+    
+        //classe de Operadores Java
+
+        double soma = 10.5 + 15.7;
+        int subtração = 113 - 25;
+        int multiplicação = 20 * 7;
+        int divisao = 15/3;
+        int modulo = 18 % 3;
+        double resultado = (10 * 7) + (20/4);
+
+    
+        // exemplos:
+
         double salarioMinimo = 2500;
 
         short  numeroCurto = 1;
